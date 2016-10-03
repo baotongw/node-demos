@@ -1,0 +1,23 @@
+{
+  "name": "spider-play",
+  "version": "1.0.0",
+  "description": "A tools to get insteresting data over the web",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdwangbaotong/spider-play.git"
+  },
+  "keywords": [
+    "spider",
+    "study"
+  ],
+  "author": "baotong.wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdwangbaotong/spider-play/issues"
+  },
+  "homepage": "https://github.com/sdwangbaotong/spider-play#readme"
+}
